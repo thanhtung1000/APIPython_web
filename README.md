@@ -11,3 +11,4 @@ Ngoài ra, hệ thống còn cung cấp giao diện Swagger UI tại địa ch�
 
 Qua bài làm này, em đã hiểu rõ hơn về cách xây dựng một hệ thống web đơn giản, cách thiết kế API, xử lý dữ liệu Unicode, và kết nối với cơ sở dữ liệu thực tế. Đây là nền tảng quan trọng để phát triển các ứng dụng lớn hơn trong tương lai.
 <img width="1849" height="579" alt="image" src="https://github.com/user-attachments/assets/57d9be88-bde9-480c-97cd-ea7dfaba4c6d" />
+<img width="1849" height="661" alt="image" src="https://github.com/user-attachments/assets/897a6a92-4f72-4425-8d91-5bfff732e3b9" />
